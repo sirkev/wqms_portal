@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:wqsm/features/splash_screen/splash_screen.dart';
+
+import 'features/splash_screen/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
